@@ -725,7 +725,7 @@
 
   (footprint "parts:DSUB-9" (layer "F.Cu")
     (tedit 0) (tstamp 35ed081c-163b-4979-90e3-f6e508b6c0fd)
-    (at 91.2358 111.3124)
+    (at 50.8 -1.3843)
     (descr "DSUB-9-2")
     (tags "UART")
     (property "Sheetfile" "CMPE-310-Project-5.kicad_sch")
