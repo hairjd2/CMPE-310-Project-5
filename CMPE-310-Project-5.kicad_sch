@@ -1829,20 +1829,20 @@
     (path "/e304871e-0c65-4d03-9874-25b05d9e51c9"
       (reference "U1") (unit 1) (value "max235cpg") (footprint "max235cpg")
     )
+    (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/0c0c0408-a802-4565-bfd7-4f8ec8edfdf4"
+      (reference "U2") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
+    )
     (path "/a0374883-188a-4260-9626-a523ec516220"
       (reference "U3") (unit 1) (value "pkd8279") (footprint "pkd8279")
     )
     (path "/dd8a8101-b981-4991-83c4-42ad81c0ffe8"
       (reference "U4") (unit 1) (value "8086_Min_Mode") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
-    (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/0c0c0408-a802-4565-bfd7-4f8ec8edfdf4"
-      (reference "U?") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
+    (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/b0c5b296-e613-4e59-9f47-5ee9f52730e9"
+      (reference "U5") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/58c45ee6-e22b-4464-ae80-0d3502ac52df"
-      (reference "U?") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
-    )
-    (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/b0c5b296-e613-4e59-9f47-5ee9f52730e9"
-      (reference "U?") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
+      (reference "U6") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
   )
 )
