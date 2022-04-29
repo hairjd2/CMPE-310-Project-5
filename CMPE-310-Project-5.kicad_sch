@@ -1844,5 +1844,14 @@
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/58c45ee6-e22b-4464-ae80-0d3502ac52df"
       (reference "U6") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/84c13488-e311-4015-8274-e9921a99c1ad"
+      (reference "U?") (unit 1) (value "4012") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/ca5ed947-9774-488a-bf67-43369f1f3b56"
+      (reference "U?") (unit 1) (value "74LS14") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/dd44ebc2-e6dd-4067-9abc-f8e7bca572eb"
+      (reference "U?") (unit 2) (value "4012") (footprint "")
+    )
   )
 )
