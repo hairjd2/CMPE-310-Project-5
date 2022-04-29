@@ -431,6 +431,10 @@
     [
       "cce1404b-fc30-47cc-b852-e0061990f2bb",
       "CMOS_wires"
+    ],
+    [
+      "65a0be0e-e533-4531-a6d7-d67f7f67ab34",
+      "8255_wires"
     ]
   ],
   "text_variables": {}
