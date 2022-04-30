@@ -1755,14 +1755,26 @@
     (pin "9" (uuid 0bcdafcb-07df-4637-80bf-619ed431c18f))
   )
 
-  (sheet (at 133.35 115.57) (size 58.42 34.29) (fields_autoplaced)
+  (sheet (at 97.79 69.85) (size 58.42 34.29) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 65a0be0e-e533-4531-a6d7-d67f7f67ab34)
-    (property "Sheet name" "8255_wires" (id 0) (at 133.35 114.8584 0)
+    (property "Sheet name" "8255_wires" (id 0) (at 97.79 69.1384 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "8255_sch.kicad_sch" (id 1) (at 133.35 150.4446 0)
+    (property "Sheet file" "8255_sch.kicad_sch" (id 1) (at 97.79 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 97.79 115.57) (size 58.42 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 87af81b5-cad9-406d-8283-65af2b602860)
+    (property "Sheet name" "INTR_wires" (id 0) (at 97.79 114.8584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "INTR_sch.kicad_sch" (id 1) (at 97.79 147.9046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -1811,6 +1823,8 @@
     (path "/" (page "1"))
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb" (page "2"))
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34" (page "3"))
+    (path "/87af81b5-cad9-406d-8283-65af2b602860" (page "4"))
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/4f164966-96b4-4af1-b000-64fc7501cfa0" (page "5"))
   )
 
   (symbol_instances
@@ -1879,6 +1893,12 @@
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/b507f3c7-dd52-44a5-be46-b7c93b1c846c"
       (reference "U17") (unit 1) (value "CY7C199") (footprint "")
+    )
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/4f164966-96b4-4af1-b000-64fc7501cfa0/059acf37-76a9-40b1-bb25-35aaece591a3"
+      (reference "U?") (unit 1) (value "16550") (footprint "Package_DIP:DIP-40_W15.24mm")
+    )
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/72504f11-f169-4f76-9103-8f0a4cac0355"
+      (reference "U?") (unit 1) (value "8259A") (footprint "Package_DIP:DIP-28_W15.24mm")
     )
   )
 )

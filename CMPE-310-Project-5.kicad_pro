@@ -435,6 +435,14 @@
     [
       "65a0be0e-e533-4531-a6d7-d67f7f67ab34",
       "8255_wires"
+    ],
+    [
+      "87af81b5-cad9-406d-8283-65af2b602860",
+      "INTR_wires"
+    ],
+    [
+      "4f164966-96b4-4af1-b000-64fc7501cfa0",
+      "16550_wires"
     ]
   ],
   "text_variables": {}
