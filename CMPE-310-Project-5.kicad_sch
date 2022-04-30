@@ -1844,14 +1844,41 @@
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/58c45ee6-e22b-4464-ae80-0d3502ac52df"
       (reference "U6") (unit 1) (value "8255") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
-    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/84c13488-e311-4015-8274-e9921a99c1ad"
-      (reference "U?") (unit 1) (value "4012") (footprint "")
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/2bcb4088-d127-4d59-875f-eaafed086b38"
+      (reference "U7") (unit 3) (value "74LS13") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/7df5e3c9-9272-4b04-9864-dbb3635df25a"
+      (reference "U8") (unit 1) (value "74LS138") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/a58de6d5-6098-4fa1-8bff-4441b9d56f60"
+      (reference "U9") (unit 1) (value "CY7C199") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/b35317db-f868-4ecd-9098-0765401fb1bb"
+      (reference "U10") (unit 1) (value "74LVC1G332") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/3a88aacd-ffb8-40de-9cbf-d23a565b72ff"
+      (reference "U11") (unit 1) (value "74LS138") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/f30de29e-a755-4fab-b792-69fbb058e023"
+      (reference "U12") (unit 1) (value "CY7C199") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/7ef7cbab-1104-4a6c-8138-0dbfbe2b1e74"
+      (reference "U13") (unit 1) (value "74LS14") (footprint "")
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/ca5ed947-9774-488a-bf67-43369f1f3b56"
-      (reference "U?") (unit 1) (value "74LS14") (footprint "")
+      (reference "U14") (unit 1) (value "74LS14") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/70eb4871-250b-4c65-bdc1-ad2f4e5fb7b4"
+      (reference "U15") (unit 1) (value "CY7C199") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/84c13488-e311-4015-8274-e9921a99c1ad"
+      (reference "U16") (unit 1) (value "4012") (footprint "")
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/dd44ebc2-e6dd-4067-9abc-f8e7bca572eb"
-      (reference "U?") (unit 2) (value "4012") (footprint "")
+      (reference "U16") (unit 2) (value "4012") (footprint "")
+    )
+    (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/b507f3c7-dd52-44a5-be46-b7c93b1c846c"
+      (reference "U17") (unit 1) (value "CY7C199") (footprint "")
     )
   )
 )
