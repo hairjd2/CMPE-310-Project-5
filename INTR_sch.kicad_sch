@@ -2140,7 +2140,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1e8391e5-390c-4ce8-b3db-f2211182167d)
   )
-  (hierarchical_label "INTR" (shape input) (at 76.2 172.72 180)
+  (hierarchical_label "INTR" (shape output) (at 76.2 172.72 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 252a72bd-e50e-41c2-bf35-f6516f629ec2)
   )
