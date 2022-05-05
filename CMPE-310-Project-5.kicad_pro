@@ -439,6 +439,10 @@
     [
       "87af81b5-cad9-406d-8283-65af2b602860",
       "INTR_wires"
+    ],
+    [
+      "ed705d0b-56ef-479c-b140-27b7dd746870",
+      "DSUB_MAX235_wires"
     ]
   ],
   "text_variables": {}
