@@ -449,10 +449,6 @@
       "Bus_wires"
     ],
     [
-      "5fc3593e-b9e8-49bd-9166-3ed0c5e60597",
-      "Bus_Headers"
-    ],
-    [
       "ccdbd1e9-f638-4a0b-8283-b27a59eb17a3",
       "IO_Component_Wires"
     ]
