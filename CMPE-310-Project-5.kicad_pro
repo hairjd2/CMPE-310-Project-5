@@ -443,6 +443,10 @@
     [
       "ed705d0b-56ef-479c-b140-27b7dd746870",
       "DSUB_MAX235_wires"
+    ],
+    [
+      "e28c63c9-ea84-495f-a09f-7c14469ef64f",
+      "Bus_wires"
     ]
   ],
   "text_variables": {}
