@@ -1521,7 +1521,7 @@
     (property "Reference" "#PWR?" (id 0) (at 60.96 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 60.96 24.13 0))
+    (property "Value" "+5V" (id 1) (at 60.96 24.13 0))
     (property "Footprint" "" (id 2) (at 60.96 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1913,11 +1913,17 @@
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/0bcd1a6b-924d-4927-a948-feb26e28e4ce"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/ed705d0b-56ef-479c-b140-27b7dd746870/3111651b-af1a-46fc-b47d-4f547787e7cc"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/3f9f7cc5-2cba-4e8a-bca1-3fa717e649ee"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/66aeb361-b877-44e1-b39b-3125f418ae84"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/ed705d0b-56ef-479c-b140-27b7dd746870/69062c11-7347-4096-8151-5d07490a7074"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/75117201-9188-48a7-8212-64638d2ad3d8"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
@@ -1930,6 +1936,9 @@
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/a43ef127-d7d8-4bd1-afe4-e32a4563d6d9"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/87af81b5-cad9-406d-8283-65af2b602860/ed705d0b-56ef-479c-b140-27b7dd746870/cd1cf589-f574-4945-bff1-6e7d61d209d0"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/d26bc38b-e04e-43c9-b60f-cb1e6ddbb256"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
