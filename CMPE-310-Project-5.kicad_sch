@@ -1477,7 +1477,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 21.59 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9ae1249b-3cd5-4b56-8152-fc5a2ed8e84b)
-    (property "Reference" "H?" (id 0) (at 24.13 189.2299 0)
+    (property "Reference" "H2" (id 0) (at 24.13 189.2299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 24.13 191.7699 0)
@@ -1532,7 +1532,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 278.13 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aa7ddcaf-40f6-47b9-b614-053507653447)
-    (property "Reference" "H?" (id 0) (at 280.67 161.2899 0)
+    (property "Reference" "H3" (id 0) (at 280.67 161.2899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 280.67 163.8299 0)
@@ -1565,7 +1565,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 20.32 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c7009550-b21f-4d0a-8ae9-710a510907c6)
-    (property "Reference" "H?" (id 0) (at 22.86 22.8599 0)
+    (property "Reference" "H1" (id 0) (at 22.86 22.8599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 22.86 25.3999 0)
@@ -1671,7 +1671,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 279.4 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e95a6420-e0e2-4379-8d24-250c82b541f5)
-    (property "Reference" "H?" (id 0) (at 281.94 21.5899 0)
+    (property "Reference" "H4" (id 0) (at 281.94 21.5899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 281.94 24.1299 0)
@@ -2088,17 +2088,17 @@
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/b655b61e-e422-44ae-96f0-14ea7413fab6"
       (reference "DS1") (unit 1) (value "LCD4x20") (footprint "parts:LCD4x20")
     )
+    (path "/c7009550-b21f-4d0a-8ae9-710a510907c6"
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "")
+    )
     (path "/9ae1249b-3cd5-4b56-8152-fc5a2ed8e84b"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "")
+      (reference "H2") (unit 1) (value "MountingHole") (footprint "")
     )
     (path "/aa7ddcaf-40f6-47b9-b614-053507653447"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "")
-    )
-    (path "/c7009550-b21f-4d0a-8ae9-710a510907c6"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "")
+      (reference "H3") (unit 1) (value "MountingHole") (footprint "")
     )
     (path "/e95a6420-e0e2-4379-8d24-250c82b541f5"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "")
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "")
     )
     (path "/65a0be0e-e533-4531-a6d7-d67f7f67ab34/663809f0-cda7-4438-9ef6-bd03b342e9a5"
       (reference "J1") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
