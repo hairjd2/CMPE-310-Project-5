@@ -2146,10 +2146,10 @@
       (reference "J15") (unit 1) (value "Conn_01x03_Male") (footprint "Connector:FanPinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/e28c63c9-ea84-495f-a09f-7c14469ef64f/b1f28974-c9e8-42e7-b670-1d34b4edf577"
-      (reference "J16") (unit 1) (value "Conn_01x20_Male") (footprint "Connector:FanPinHeader_1x03_P2.54mm_Vertical")
+      (reference "J16") (unit 1) (value "Conn_01x20_Male") (footprint "Connector_Harwin:Harwin_M20-89020xx_1x20_P2.54mm_Horizontal")
     )
     (path "/e28c63c9-ea84-495f-a09f-7c14469ef64f/788aa65c-d886-48bc-b0a3-d0cf3a81ea92"
-      (reference "J17") (unit 1) (value "Conn_01x16_Male") (footprint "Connector:FanPinHeader_1x03_P2.54mm_Vertical")
+      (reference "J17") (unit 1) (value "Conn_01x16_Male") (footprint "Connector_Harwin:Harwin_M20-89016xx_1x16_P2.54mm_Horizontal")
     )
     (path "/6ea0ba27-088d-41ca-9c69-c258626541e2"
       (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0201_0603Metric")
@@ -2161,13 +2161,13 @@
       (reference "R3") (unit 1) (value "R") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/bea23795-4297-4360-89d6-8ffb9734fb06"
-      (reference "R4") (unit 1) (value "R") (footprint "")
+      (reference "R4") (unit 1) (value "R") (footprint "OptoDevice:R_LDR_4.9x4.2mm_P2.54mm_Vertical")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/89432c4a-744e-4173-bd05-120cbe0c6f87"
-      (reference "RN1") (unit 1) (value "R_Pack08") (footprint "")
+      (reference "RN1") (unit 1) (value "R_Pack08") (footprint "Package_DIP:DIP-16_W7.62mm")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/3f870137-934e-4800-9da7-544bf795f657"
-      (reference "RN2") (unit 1) (value "R_Pack08") (footprint "")
+      (reference "RN2") (unit 1) (value "R_Pack08") (footprint "Package_DIP:DIP-16_W7.62mm")
     )
     (path "/5899a437-07d2-41ab-b7b8-ff55e37b5116"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
@@ -2302,10 +2302,10 @@
       (reference "U15") (unit 1) (value "CY7C199") (footprint "Package_DIP:DIP-28_W7.62mm")
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/84c13488-e311-4015-8274-e9921a99c1ad"
-      (reference "U16") (unit 1) (value "4012") (footprint "Package_DIP:DIP-12_W7.62mm")
+      (reference "U16") (unit 1) (value "4012") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/dd44ebc2-e6dd-4067-9abc-f8e7bca572eb"
-      (reference "U16") (unit 2) (value "4012") (footprint "Package_DIP:DIP-12_W7.62mm")
+      (reference "U16") (unit 2) (value "4012") (footprint "Package_DIP:DIP-14_W7.62mm")
     )
     (path "/cce1404b-fc30-47cc-b852-e0061990f2bb/b507f3c7-dd52-44a5-be46-b7c93b1c846c"
       (reference "U17") (unit 1) (value "CY7C199") (footprint "Package_DIP:DIP-28_W7.62mm")
