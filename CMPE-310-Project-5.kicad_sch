@@ -2128,16 +2128,16 @@
       (reference "J9") (unit 1) (value "Conn_01x08_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/3ac23477-9706-41a9-b9a4-fd30311a1ca6"
-      (reference "J10") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
+      (reference "J10") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_Harwin:Harwin_M20-89004xx_1x04_P2.54mm_Horizontal")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/fea5533d-abef-41be-a549-2822bf2ac716"
-      (reference "J11") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
+      (reference "J11") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_Harwin:Harwin_M20-89003xx_1x03_P2.54mm_Horizontal")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/b3e35886-6be2-45d7-954e-678128887b3c"
-      (reference "J12") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
+      (reference "J12") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_Harwin:Harwin_M20-89003xx_1x03_P2.54mm_Horizontal")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/269af414-30c7-41dc-8249-f1dd308917a2"
-      (reference "J13") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_Harwin:Harwin_M20-89008xx_1x08_P2.54mm_Horizontal")
+      (reference "J13") (unit 1) (value "Conn_01x02_Male") (footprint "Connector:JWT_A3963_1x02_P3.96mm_Vertical")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ed705d0b-56ef-479c-b140-27b7dd746870/46713bb8-6013-4d8c-a03e-5e2d8544fd74"
       (reference "J14") (unit 1) (value "DSUB-9") (footprint "parts:DSUB-9")
@@ -2161,7 +2161,7 @@
       (reference "R3") (unit 1) (value "R") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/bea23795-4297-4360-89d6-8ffb9734fb06"
-      (reference "R4") (unit 1) (value "R") (footprint "OptoDevice:R_LDR_4.9x4.2mm_P2.54mm_Vertical")
+      (reference "R4") (unit 1) (value "R") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/89432c4a-744e-4173-bd05-120cbe0c6f87"
       (reference "RN1") (unit 1) (value "R_Pack08") (footprint "Package_DIP:DIP-16_W7.62mm")
@@ -2251,7 +2251,7 @@
       (reference "SW27") (unit 1) (value "SW_Push") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/87af81b5-cad9-406d-8283-65af2b602860/ccdbd1e9-f638-4a0b-8283-b27a59eb17a3/fecbfe91-3a12-4e14-a7fe-0bab364afceb"
-      (reference "SW28") (unit 1) (value "SW_DIP_x08") (footprint "Connector_DIN:DIN41612_D_2x8_Female_Vertical_THT")
+      (reference "SW28") (unit 1) (value "SW_DIP_x08") (footprint "Button_Switch_SMD:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W6.73mm_P2.54mm_LowProfile_JPin")
     )
     (path "/99b37589-5990-44d0-85b6-86e36ff3cb01"
       (reference "U1") (unit 1) (value "8284") (footprint "Package_DIP:DIP-18_W7.62mm")
